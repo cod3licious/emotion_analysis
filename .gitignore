@@ -3,21 +3,20 @@
 *.sw[p|o]
 *.py[c|o]
 *.py~
-*.csv
+*.ods
 *.db
 *.png
 *.pdf
-data/
 .ipynb_checkpoints/
-GermanPolarityClues-2012/
-Keyword-Listen30T/
-Keyword-Listen30T_annotated/
+data/GermanPolarityClues-2012/*-Lemma-*.tsv
+data/Keyword-Listen30T/
+data/Keyword-Listen30T_annotated/
 dist/
 build/
 simec.egg-info/
 MANIFEST.in
 setup.py
-SentiWS_v1.8c_Negative.txt
-SentiWS_v1.8c_Positive.txt
+data/SentiWS_v1.8c_Negative.txt
+data/SentiWS_v1.8c_Positive.txt
 annotate_lists.py
 
