@@ -18,5 +18,6 @@ MANIFEST.in
 setup.py
 data/SentiWS_v1.8c_Negative.txt
 data/SentiWS_v1.8c_Positive.txt
+data/Kommentare
 annotate_lists.py
 
