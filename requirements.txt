@@ -2,5 +2,6 @@ numpy
 pandas
 matplotlib
 plotly
+scikit-learn
 gensim
 nlputils
