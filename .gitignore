@@ -9,6 +9,7 @@
 *.pdf
 .ipynb_checkpoints/
 data/GermanPolarityClues-2012/*-Lemma-*.tsv
+data/emotion_words_original/
 data/Keyword-Listen30T/
 data/Keyword-Listen30T_annotated/
 dist/

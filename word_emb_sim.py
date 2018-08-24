@@ -158,9 +158,11 @@ def transform_word2vec_featmat(docfeats, doc_ids, word_embeddings, avg='avg'):
         else:
             raise NotImplementedError('Unknown average %s' % avg)
     fnorm = np.linalg.norm(featmat, axis=1)
+    # avoid division by 0
+    fnorm[fnorm == 0.] = 1.
     featmat /= fnorm.reshape(featmat.shape[0], 1)
     # catch division by 0
-    featmat[~np.isfinite(featmat)] = 0.
+    #featmat[~np.isfinite(featmat)] = 0.
     return featmat
 
 
