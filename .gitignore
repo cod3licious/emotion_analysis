@@ -8,10 +8,6 @@
 *.png
 *.pdf
 .ipynb_checkpoints/
-data/GermanPolarityClues-2012/*-Lemma-*.tsv
-data/emotion_words_original/
-data/Keyword-Listen30T/
-data/Keyword-Listen30T_annotated/
 dist/
 build/
 simec.egg-info/
@@ -20,5 +16,8 @@ setup.py
 data/SentiWS_v1.8c_Negative.txt
 data/SentiWS_v1.8c_Positive.txt
 data/Kommentare
+data/GermanPolarityClues-2012/*-Lemma-*.tsv
+data/emotion_words_original/
+data/Keyword-Listen30T/
+data/Keyword-Listen30T_annotated/
 annotate_lists.py
-
