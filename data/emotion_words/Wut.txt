@@ -1,5 +1,7 @@
+
 aalglatt
 Aasgeier
+abartig
 abbruchreif
 abbügeln
 Aberration
@@ -146,6 +148,7 @@ Arschlecken
 Arschloch
 Artikellosigkeit
 Asis
+asozial
 Asoziale
 ätzend
 aufbrausen
@@ -230,6 +233,7 @@ belästigen
 Belästigung
 beleibt
 beleidigen
+beleidigt
 Beleidigung
 beliebig
 belustigend
@@ -257,6 +261,7 @@ bespötteln
 Besserwessi
 Besserwisser
 Bestie
+bestraft
 Bestreitung
 bestusst
 besudeln
@@ -437,6 +442,7 @@ Dreck
 Dreckbude
 dreckig
 Dreckloch
+drecks
 Drecksack
 Dreckschwein
 Drecksfinger
@@ -449,6 +455,7 @@ Dreistigkeit
 Driss
 drittklassig
 dröge
+drogen
 Drückeberger
 Drückebergerei
 Duckmäuser
@@ -460,10 +467,13 @@ Dummbart
 Dummbartel
 Dummchen
 dummdreist
+dumme
+dummen
 dümmer
 Dummerchen
 Dummerjan
 dummerweise
+dummes
 Dummheit
 Dummkopf
 dümmlich
@@ -577,7 +587,9 @@ fadenscheinig
 fahrlässig
 Fahrlässigkeit
 Fäkalien
+fake
 falsch
+falschen
 farblos
 faseln
 fassungslos
@@ -724,6 +736,7 @@ gedankenlos
 Gedankenlosigkeit
 Gedöns
 Geduldsfaden
+gefangnis
 Gefasel
 Gefrett
 gefrustet
@@ -877,6 +890,7 @@ Grundstufe
 Grünschnabel
 Gschmäckle
 gutgläubig
+gutmenschen
 gutwillig
 haarspalterisch
 haarsträubend
@@ -1047,12 +1061,14 @@ hundertachtzig
 Hundesohn
 hundsgemein
 hundsmiserabel
+hunger
 Hungerlohn
 Hure
 Hurenbock
 Hurensohn
 Hurerei
 hypokritisch
+ichbinhier
 Idiot
 Idiotenapostroph
 Idiotentest
@@ -1177,6 +1193,7 @@ knallig
 Knallkopf
 Knallschote
 Knalltüte
+knast
 Knasti
 Knatsch
 knatschig
@@ -1226,6 +1243,7 @@ krepieren
 Kretin
 Kriecher
 Kriecherei
+kriminellen
 kritiklos
 kritisieren
 Kroppzeug
@@ -1305,6 +1323,7 @@ Lippenbekenntnis
 listig
 lückenhaft
 Luftikus
+lugenpresse
 Lulli
 Lümmel
 Lump
@@ -1330,6 +1349,7 @@ marode
 martialisch
 mäßig
 mau
+maul
 maulfaul
 Maulheld
 maulig
@@ -1437,11 +1457,15 @@ Naserümpfen
 naserümpfend
 nasführen
 nassforsch
+nazis
+neid
+neidisch
 Nepp
 Nepper
 nerven
 Nervensäge
 nervig
+nervt
 nervtötend
 Nervtöter
 Nestbeschmutzer
@@ -1727,6 +1751,7 @@ Sausack
 sausen
 Saustall
 schäbig
+schaden
 schädlich
 schal
 schäm
@@ -1794,6 +1819,8 @@ Schlappschwanz
 schlau
 Schlawiner
 schlecht
+schlechte
+schlechter
 schlechterdings
 schlechtmachen
 schlechtreden
@@ -1854,6 +1881,7 @@ Schnapsidee
 Schnarchnase
 schnatz
 schnauben
+schnauze
 schneidend
 Schnellmerker
 Schnellschuss
@@ -1884,6 +1912,7 @@ schüchtern
 Schuft
 Schufterei
 schuftig
+schuld
 Schummelei
 schummeln
 Schund
@@ -1919,6 +1948,7 @@ schweinisch
 Schweinkram
 Schwellenzähler
 Schwengel
+schwer
 Schwindel
 Schwindelgeschäft
 schwindeln
@@ -1976,6 +2006,7 @@ spicken
 spindeldürr
 Spinne
 spinnen
+spinner
 spinnert
 spintisieren
 spitz
@@ -2023,6 +2054,8 @@ stockdumm
 stockhässlich
 stocksauer
 Störenfried
+strafen
+straftat
 Straßendirne
 Straßenmädchen
 Strauchdieb
@@ -2335,6 +2368,7 @@ Verbissenheit
 verblichen
 verblödet
 verbohrt
+verbot
 verbrämen
 verbraucht
 verbreitet
@@ -2572,11 +2606,11 @@ wohlgenährt
 wohlwollend
 wortbrüchig
 Worthülse
+wtf
 Wunderling
 würdelos
 würgen
 Wurm
-
 wurmen
 Wurmerkrankung
 wurschteln

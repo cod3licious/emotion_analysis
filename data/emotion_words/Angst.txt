@@ -1,4 +1,3 @@
-Angst***
 Abgrund
 Abhängigkeit
 Abhauen
@@ -51,6 +50,7 @@ Anspannung
 Antichrist
 Anwalt
 Apache
+armut
 Arsen
 Artillerie
 Arzt
@@ -117,10 +117,12 @@ bizarr
 bleich
 Blinddarm
 Blockade
+blut
 Bluthund
 Blutungen
 Blutvergießen
 Bombe
+bosen
 Brandstiftung
 brüsk
 brutal
@@ -232,6 +234,7 @@ Geständnis
 gestreßt
 Gewalt
 Gewalttätige
+gezwungen
 Grab
 gräßlich
 grauen
@@ -248,6 +251,7 @@ Grausen
 grausig
 grauslich
 Greuel
+grippe
 Grusel
 gruselig
 gruseln
@@ -268,6 +272,7 @@ Herausforderung
 hereinplatzen
 Herzensangst
 Herzklopfen
+hetze
 hineinplatzen
 Hinterhalt
 Hiobsbotschaft
@@ -314,11 +319,16 @@ Konsternation
 konsternieren
 konsterniert
 Kontamination
+krank
+kranke
 Krankenhaus
+krass
 Krawall
 Kreatur
 Krebs
 Kreuzzug
+krieg
+kriege
 Kriminalität
 Krüppel
 Kündigung
@@ -330,6 +340,8 @@ Memmenhaftigkeit
 Missbrauch
 Monster
 Monstrum
+mord
+morder
 Muffensausen
 mutlos
 Mutlosigkeit
@@ -341,6 +353,7 @@ Notruf
 Obacht
 oha
 oho
+omg
 ominös
 Operation
 Panik
@@ -348,10 +361,13 @@ panikartig
 panisch
 Paukenschlag
 Pavor
+peinlich
 Perplexität
 Phobie
 phobisch
 prekär
+problem
+probleme
 radikal
 rasen
 riesengroß
@@ -379,6 +395,7 @@ Schlagen
 Schlägerei
 Schlappschwanz
 Schlechtigkeit
+schlimme
 schlotterig
 schlottern
 schlottrig
@@ -427,6 +444,7 @@ Spuk
 spukhaft
 spukhafter
 sterben
+strafe
 Sträfling
 strange
 Streit
@@ -480,6 +498,8 @@ verabscheuen
 verängstig
 verängstigen
 Verängstigung
+verbrechen
+verbrecher
 verdunkeln
 Verfall
 verflucht
